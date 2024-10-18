@@ -10,7 +10,7 @@ Agora sua missão é continuar trabalhando no nosso dataset house price.
 - **Cuidado para não usar a coluna "caro" e "barato" na sua previsão, pois isso é um spoiler para seu modelo!**
 
 
-ATENÇÃO: O notebook deste repositório não é um gabarito, nele temos apenas a análise descritiva do conjunto de dados!
+**ATENÇÃO:** O notebook deste repositório não é um gabarito, nele temos apenas a análise descritiva do conjunto de dados!
 
 Neste repositório você irá encontrar:
 
